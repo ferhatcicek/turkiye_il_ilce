@@ -9,6 +9,14 @@ Projelerde **il** ve **ilçe** bilgilerine sıklıkla ihtiyaç duyulabilir. Bu r
 ### 1. `ililce_list.py` 
 - Python projelerinde kullanılmak üzere **list** yapısında hazırlanmış il ve ilçe bilgilerini içerir.
 
+### Kullanım Örneği
+
+```python
+    {
+        "il": "Kayseri",
+        "ilce": ["Akkışla", "Bünyan", "Develi", "Felahiye", "Hacılar", "İncesu", "Kocasinan", "Melikgazi", "Özvatan", "Pınarbaşı", "Sarıoğlan", "Sarız", "Talas", "Tomarza", "Yahyalı", "Yeşilhisar"]
+    }
+```
 
 ### 2. `turkiye_koordinatlar.json` 
 - Türkiye'deki il ve ilçelerin **Google Maps** üzerinden elde edilmiş **koordinat verilerini** içerir.
