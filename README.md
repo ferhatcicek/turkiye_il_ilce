@@ -1,12 +1,19 @@
-# turkiye_il_ilce
-Projelerde il ve ilçe bilgilerine ihtiyaç duyulabilmektedir. kendi projelerimde kullandığım verileri paylaşacağım.
+# Türkiye İl ve İlçe Verileri
 
-ililce_list.py  : python dosyası içerisinde kullanılmak üzere list yapısında oluşturulmuş il ve ilçe bilgisi.
+Projelerde **il** ve **ilçe** bilgilerine sıklıkla ihtiyaç duyulabilir. Bu repo, kendi projelerimde kullandığım **il** ve **ilçe** verilerini içermektedir. Aşağıda kullanılan dosyalar ve içerikleri açıklanmaktadır.
 
-turkiye_koordinatlar.json : il ve ilçelerin google maps üzerinden çekilmiş koordinat verileri
+---
+
+## İçerikler
+
+### 1. `ililce_list.py` 
+- Python projelerinde kullanılmak üzere **list** yapısında hazırlanmış il ve ilçe bilgilerini içerir.
 
 
+### 2. `turkiye_koordinatlar.json` 
+- Türkiye'deki il ve ilçelerin **Google Maps** üzerinden elde edilmiş **koordinat verilerini** içerir.
 
 
+# İletişim
 
-ferhatcicek.com
+Daha fazla bilgi için [ferhatcicek.com](http://ferhatcicek.com) adresini ziyaret edebilirsiniz.
