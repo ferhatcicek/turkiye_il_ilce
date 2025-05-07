@@ -1,2 +1,4 @@
 # turkiye_il_ilce
-İl ve ilçe veritabanı
+Projelerde il ve ilçe bilgilerine ihtiyaç duyulabilmektedir. kendi projelerimde kullandığım verileri paylaşacağım.
+
+ferhatcicek.com
